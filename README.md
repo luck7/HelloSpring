@@ -1,2 +1,2 @@
 # HelloSpring
-Spring Getting Started Guides
+Learning Spring
